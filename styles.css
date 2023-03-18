@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    font-family: 'Calibri';
+    font-size: 24px;
+}
+
+
+.box-main{
+    border: 1px solid;
+    width: 1000px;
+    margin: 10px 0 0 0;
+    padding-bottom: 30px;
+}
+
+
+.box-small{
+    border: 1px solid;
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+    margin: 5px ;
+}
+
+.image{
+    border: 1px solid;
+    margin-bottom: 30px;
+    width: 25%;
+    height: 25%;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.main-heading{
+    font-size: 54px;
+}
+
+.sub-heading{
+    font-size: 36px;
+}
+
+.next-heading{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.social{
+    font-size: 36px;
+    display: inline-block;
+    vertical-align: middle;
+}
